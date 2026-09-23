@@ -1,4 +1,4 @@
-# networkwalks_zenmap-and-the-harvester-foot-printing-report
+
 Cybersecurity Reconnaissance and Network Discovery Project
 Overview
 This project combines passive OSINT reconnaissance with theHarvester and authorized local-network host discovery with Zenmap/Nmap.
